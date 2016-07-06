@@ -1,5 +1,5 @@
 # EasyXMLParser
-Helps us parse XML into an easy to use and manipulate PHP object
+Helps us parse XML strings into an easy to use and manipulate PHP object
 
 # Example
 ```php
