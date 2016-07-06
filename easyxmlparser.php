@@ -1,6 +1,6 @@
 <?php
 
-class VaultWareImporter {
+class EasyXMLParser {
     protected $filePath;
     protected $fileHandle;
     protected $fileContents;
