@@ -3,6 +3,8 @@ Helps us parse XML into an easy to use and manipulate PHP object
 
 # Example
 ```php
+$remotePropertyFile = '/path/to/xml/on/server.xml';
+// or
 $remotePropertyFile = 'ftp://'.
     $_ENV['SERVER_USERNAME']. ':' . 
     $_ENV['SERVER_PASSWORD'].'@'.$_ENV['SERVER_IP'].
